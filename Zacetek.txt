@@ -3,18 +3,18 @@ Osterman;Eneja;OK Polaris;A;1122
 Petrovič;Dušan;OK Polaris;A;1110
 Pust;Tomaž;OK Komenda;A;1088
 Škarabot;Miha;OK Polaris;A;1038
-Bogataj;Mark;OK Azimut;A;1328
-Dudic;Marko;OK Slovenj Gradec;A;944
-Hvala;Gregor;OK Azimut;A;1228
-Tušar;Peter;OK Azimut;A;1201
+Bogataj;Mark;OK Azimut;A;1450
+Dudic;Marko;OK Slovenj Gradec;A;1100
+Hvala;Gregor;OK Azimut;A;1300
+Tušar;Peter;OK Azimut;A;1300
 Flerin Drevenšek;Mojca;Kamniški OK;A;1134
 Eržen;Boris;OK Polaris;A;836
 Pribaković Borštnik;Ana;OK Tivoli;A;834
 Kunc;Robert;OK Tivoli;A;824
 Čufer;David;PD Ajdovščina;A;1031
-Stanonik;Simon;OK Azimut;A;1225
+Stanonik;Simon;OK Azimut;A;1350
 Čufer;Stanko;PD Ajdovščina;A;625
-Kölner;Blaž;OK Komenda;A;1108
+Kölner;Blaž;OK Komenda;A;1200
 Borštnik;Aleš;OK Tivoli;A;546
 Sedej;Vlado;OK Azimut;A;527
 Andrejc;Žiga;OK Slovenj Gradec;A;929
