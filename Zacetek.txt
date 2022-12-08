@@ -141,3 +141,23 @@ Vodovnik;Tina;OK Slovenj Gradec;C;-141
 Šuc;Teja;OK Komenda;C;-142
 Mezga;Tanja;OK Slovenj Gradec;C;-149
 Šuc;Tin;OK Komenda;C;-153
+Kacin;Emil;OK Azimut;B;0
+Keresteš;Krešo;OK Trzin;B;0
+Eržen;Nika;OK Azimut;B;0
+Kurtanjek;Lovro;OK Azimut;B;0
+Štanfel;Urša;OK Azimut;B;0
+Turk;Nejc;OK Komenda;A;0
+Štanfel;Matjaž;OK Azimut;A;0
+Babič;Katja;OK Komenda;A;0
+Jevševar;Bojan;OK Brežice;A;0
+Eržen;Nea;OK Azimut;A;0
+Hribar;Anica;OK Brežice;A;0
+Sedej;Matej;OK Azimut;B;0
+Sedej;Katarina;OK Azimut;B;0
+Jevševar;Jedert;OK Azimut;B;0
+Kurtanjek;Luka;OK Azimut;B;0
+Istenič;Maja;OK Azimut;B;0
+Sluga;Neža;OK Polaris;C;0
+Kurtanjek;Lan;OK Azimut;C;0
+Babič;Anja;OK Trzin;C;0
+Bončina;Vianez;OK Slovenske Konjice;C;0
