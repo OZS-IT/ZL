@@ -1,21 +1,20 @@
 Gavrilov;Igor;OK Komenda;A;1136
-Gavrilov;Igor;OK Komenda;A;1136
 Osterman;Eneja;OK Polaris;A;1122
 Petrovič;Dušan;OK Polaris;A;1110
 Pust;Tomaž;OK Komenda;A;1088
 Škarabot;Miha;OK Polaris;A;1038
-Bogataj;Mark;OK Azimut;A;1328
-Dudic;Marko;OK Slovenj Gradec;A;944
-Hvala;Gregor;OK Azimut;A;1228
-Tušar;Peter;OK Azimut;A;1201
+Bogataj;Mark;OK Azimut;A;1450
+Dudic;Marko;OK Slovenj Gradec;A;1100
+Hvala;Gregor;OK Azimut;A;1300
+Tušar;Peter;OK Azimut;A;1300
 Flerin Drevenšek;Mojca;Kamniški OK;A;1134
 Eržen;Boris;OK Polaris;A;836
 Pribaković Borštnik;Ana;OK Tivoli;A;834
 Kunc;Robert;OK Tivoli;A;824
 Čufer;David;PD Ajdovščina;A;1031
-Stanonik;Simon;OK Azimut;A;1225
+Stanonik;Simon;OK Azimut;A;1350
 Čufer;Stanko;PD Ajdovščina;A;625
-Kölner;Blaž;OK Komenda;A;1108
+Kölner;Blaž;OK Komenda;A;1200
 Borštnik;Aleš;OK Tivoli;A;546
 Sedej;Vlado;OK Azimut;A;527
 Andrejc;Žiga;OK Slovenj Gradec;A;929
@@ -41,7 +40,7 @@ Kremžar;Tomaž;OK Komenda;A;1072
 Tušar;Teja;OK Azimut;A;1039
 Zupan;Gregor;OK Komenda;A;1021
 Kunc;Matevž;OK Tivoli;A;1001
-Kenda;Klemen;OK Azimut;A;982
+Kenda;Klemen;OK 46;A;982
 Ravnikar;Andraž;OK Polaris;A;924
 Foški;Valter;OK Polaris;A;822
 Bačnar;Janko;OK Azimut;A;822
@@ -142,30 +141,23 @@ Vodovnik;Tina;OK Slovenj Gradec;C;-141
 Šuc;Teja;OK Komenda;C;-142
 Mezga;Tanja;OK Slovenj Gradec;C;-149
 Šuc;Tin;OK Komenda;C;-153
-Babič;Katja;OK Komenda;A;1200
-Bernik;Jerca;ŠOK;A;1000
-Kenda;Klemen;OK Azimut;A;900
-Babič;Silvo;OK Komenda;A;0
-Lampe;Ajda;OK Komenda;A;0
-Arnuš;Matej;ŠOK;A;0
-Korelc;Andrej;OK Komenda;A;0
-Sladič;Roman;ŠOK;A;0
-Sladič;Irena;ŠOK;A;0
-Hacin Kölner;Irena;OK Komenda;A;0
-Močnik;Tina;OK Komenda;B;0
-Stojan;Petra;OK Komenda;B;0
-Malus;Vita;OK Komenda;B;0
-Turk;Nejc;OK Komenda;B;0
-Korenjak;Miha;OK Komenda;B;0
-Seljak;Luka;OK Komenda;B;0
-Cokan;Jan;OK Komenda;B;0
-Seljak;Jaka;OK Komenda;B;0
-Andrejc;Lenart;OK Slovenj Gradec;B;0
-Jarc;Val;OK Komenda;C;0
-Kölner;Anže;OK Komenda;C;0
-Jarc;Ajda;OK Komenda;C;0
-Mikuž;Denis;OK Azimut;A;0
-Mikuž;Erik;OK Azimut;A;0
-Mikuž;Denis;OK Azimut;B;0
-Mikuž;Erik;OK Azimut;B;0
-Istenič;Maja;OK Azimut;B;1
+Kacin;Emil;OK Azimut;B;0
+Keresteš;Krešo;OK Trzin;B;0
+Eržen;Nika;OK Azimut;B;0
+Kurtanjek;Lovro;OK Azimut;B;0
+Štanfel;Urša;OK Azimut;B;0
+Turk;Nejc;OK Komenda;A;0
+Štanfel;Matjaž;OK Azimut;A;0
+Babič;Katja;OK Komenda;A;0
+Jevševar;Bojan;OK Brežice;A;0
+Eržen;Nea;OK Azimut;A;0
+Hribar;Anica;OK Brežice;A;0
+Sedej;Matej;OK Azimut;B;0
+Sedej;Katarina;OK Azimut;B;0
+Jevševar;Jedert;OK Azimut;B;0
+Kurtanjek;Luka;OK Azimut;B;0
+Istenič;Maja;OK Azimut;B;0
+Sluga;Neža;OK Polaris;C;0
+Kurtanjek;Lan;OK Azimut;C;0
+Babič;Anja;OK Trzin;C;0
+Bončina;Vianez;OK Slovenske Konjice;C;0
