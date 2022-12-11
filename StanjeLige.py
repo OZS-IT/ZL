@@ -32,7 +32,7 @@ for st_lige in range(1,21):
     print(st_lige)
     if st_lige == 18:
         IP = 1.1
-    if path.isfile('./Rezultati/OLP'+str(st_lige)+'.csv'):
+    if path.isfile('./Rezultati/ZL'+str(st_lige)+'.csv'):
         c,score = rezultati(st_lige,{'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC})
         for rezultati_kat in c['A'].values():
             stanjeLigeA=izracunLigeA(rezultati_kat,st_lige,stanjeLigeA, IP)

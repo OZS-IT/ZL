@@ -231,7 +231,7 @@ def rezultati(st_lige,stanjeLige):
     import csv
     kodiranje='utf-8'
     score = False
-    with open('./Rezultati/OLP'+str(st_lige)+'.csv',encoding=kodiranje) as f:
+    with open('./Rezultati/ZL'+str(st_lige)+'.csv',encoding=kodiranje) as f:
         reader=csv.reader(f)
         rownum=0
         for row in reader:
