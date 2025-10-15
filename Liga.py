@@ -231,13 +231,13 @@ def rezultati(st_lige,stanjeLige):
     import csv
     kodiranje='utf-8'
     score = False
-    with open('./Rezultati/OLP'+str(st_lige)+'.csv',encoding=kodiranje) as f:
+    with open('./Rezultati/ZL'+str(st_lige)+'.csv',encoding=kodiranje) as f:
         reader=csv.reader(f)
         rownum=0
         for row in reader:
             if rownum==0:
                 header=str(row[0]).split(';')
-                #print(header)
+                print(header)
             elif rownum==0:
                 pass
             else:
@@ -405,6 +405,7 @@ def rezultati(st_lige,stanjeLige):
                         if presledki(sumniki(klub1).lower()) in kl and presledki(sumniki(klub1).lower()):
                             klub1=a[kl]
                             break
+                print(kategorija)
                 if kategorija[0]== "A": ## will allow for multiple categories merged into A
                     if klub1 in ind:
                         klub1='ind.'
